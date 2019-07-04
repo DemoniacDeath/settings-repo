@@ -5,6 +5,7 @@
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="ChangesView.Diff" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
@@ -14,7 +15,15 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
   <action id="Console.TableResult.CompareCells" />
+  <action id="DatabaseView.CopyAction">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
+  <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DumpLookupElementWeights" />
   <action id="EditorCloneCaretAbove">
@@ -24,7 +33,6 @@
     <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
   <action id="EditorDuplicate">
-    <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="EditorMoveToPageBottom" />
@@ -44,6 +52,7 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
@@ -70,6 +79,9 @@
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="Replace" />
+  <action id="RunDashboard.CopyConfiguration">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
   <action id="Scala.RunConsole" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
@@ -78,6 +90,11 @@
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="shift alt 1" />
   </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="SendEOF" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift ctrl alt minus" />
   </action>
@@ -88,4 +105,8 @@
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="shift ctrl alt 0" />
   </action>
+  <action id="XDebugger.CopyWatch">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
+  <action id="openAssertEqualsDiff" />
 </keymap>
