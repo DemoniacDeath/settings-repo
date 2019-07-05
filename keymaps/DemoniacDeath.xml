@@ -6,6 +6,7 @@
     <mouse-shortcut keystroke="button4" />
   </action>
   <action id="ChangesView.Diff" />
+  <action id="ChangesView.UnshelveSilently" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
@@ -60,7 +61,9 @@
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
   </action>
-  <action id="GotoTest" />
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="Images.ShowThumbnails" />
   <action id="IncrementWindowHeight" />
   <action id="IntroduceTypeAlias" />
@@ -112,6 +115,7 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="SendEOF" />
+  <action id="ShowUmlDiagramPopup" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift ctrl alt minus" />
   </action>
@@ -121,6 +125,9 @@
   <action id="Uml.ShowDiff" />
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="shift ctrl alt 0" />
+  </action>
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
   <action id="XDebugger.CopyWatch">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
