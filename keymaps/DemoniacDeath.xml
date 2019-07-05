@@ -60,6 +60,8 @@
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
   <action id="IncrementWindowHeight" />
   <action id="IntroduceTypeAlias" />
   <action id="MoveElementLeft" />
@@ -86,6 +88,9 @@
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
   <action id="Replace" />
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
@@ -93,6 +98,7 @@
   <action id="RunDashboard.CopyConfiguration">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="Scala.RunConsole" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
