@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="File type recognized" shouldLog="false" />
+  </component>
+</application>
