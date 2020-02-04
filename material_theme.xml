@@ -7,6 +7,7 @@
     <option name="fileIcons" value="false" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isMaterialDesign" value="false" />
@@ -14,13 +15,13 @@
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="statusBarTheme" value="false" />
-    <option name="useColoredDirectories" value="false" />
     <option name="indicatorStyle" value="Dot" />
-    <option name="tabsHeight" value="42" />
+    <option name="highlightThickness" value="1" />
+    <option name="settingsSelectedTab" value="6" />
+    <option name="tabsHeight" value="18" />
     <option name="accentColor" value="237a26" />
     <option name="selectedTheme" value="NIGHT_OWL" />
     <option name="userId" value="673fc5be:16fafec8f29:-8000" />
     <option name="version" value="4.11.5" />
-    <option name="tabHighlightPosition" value="Full" />
   </component>
 </application>
