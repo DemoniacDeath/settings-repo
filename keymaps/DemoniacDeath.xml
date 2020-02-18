@@ -25,10 +25,16 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="ComposerUpdateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt u" />
+  </action>
   <action id="Console.TableResult.CloneRow">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="Console.TableResult.CompareCells" />
+  <action id="Coverage">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f10" />
+  </action>
   <action id="DatabaseView.CopyAction">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
@@ -64,6 +70,7 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
+  <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
@@ -130,6 +137,9 @@
   <action id="Images.ShowThumbnails" />
   <action id="IncrementWindowHeight" />
   <action id="IntroduceTypeAlias" />
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
   <action id="MoveElementLeft" />
   <action id="MoveElementRight" />
   <action id="MoveLineDown">
@@ -182,6 +192,7 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="SendEOF" />
+  <action id="ShowUmlDiagram" />
   <action id="ShowUmlDiagramPopup" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift ctrl alt minus" />
