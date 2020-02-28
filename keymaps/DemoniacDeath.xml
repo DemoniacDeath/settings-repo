@@ -32,6 +32,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.SetDefault" />
   <action id="Coverage">
     <keyboard-shortcut first-keystroke="shift ctrl alt f10" />
   </action>
@@ -183,6 +184,10 @@
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="shift ctrl alt j" />
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="shift alt 1" />
