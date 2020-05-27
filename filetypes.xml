@@ -4,8 +4,8 @@
       <mapping pattern="TrackingStub" type="PHP" />
       <mapping pattern="rabbitmq_enabled_plugins" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
-      <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
