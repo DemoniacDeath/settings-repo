@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="TrackingStub" type="PHP" />
       <mapping pattern="rabbitmq_enabled_plugins" type="PLAIN_TEXT" />
+      <mapping pattern="backdoor_user_initiator_username" type="PLAIN_TEXT" />
+      <mapping pattern="backdoor_user_initiator_password" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
