@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="bin" type="Native" />
       <mapping pattern="TrackingStub" type="PHP" />
       <mapping pattern="rabbitmq_enabled_plugins" type="PLAIN_TEXT" />
       <mapping pattern="backdoor_user_initiator_username" type="PLAIN_TEXT" />
