@@ -2,19 +2,20 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="18558251-e76f-47ff-a401-41919e3dc320" name="PHP 7.4" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="b76c5122-c2b2-40e4-ad90-35f5fd3b0a1d" name="PHPbrew 7.4.8" home="$USER_HOME$/.phpbrew/php/php-7.4.8/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.4">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.4.0">
-          <additional_php_ini>/etc/php/conf.d/amqp.ini, /etc/php/conf.d/apcu.ini, /etc/php/conf.d/gd.ini, /etc/php/conf.d/iconv.ini, /etc/php/conf.d/igbinary.ini, /etc/php/conf.d/pdo_mysql.ini, /etc/php/conf.d/pdo_pgsql.ini, /etc/php/conf.d/php_helloworld.ini, /etc/php/conf.d/redis.ini, /etc/php/conf.d/xdebug.ini</additional_php_ini>
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.4.8">
+          <additional_php_ini>/etc/php/conf.d/amqp.ini, /etc/php/conf.d/apcu.ini, /etc/php/conf.d/blackfire.ini, /etc/php/conf.d/bz2.ini, /etc/php/conf.d/gd.ini, /etc/php/conf.d/iconv.ini, /etc/php/conf.d/igbinary.ini, /etc/php/conf.d/imap.ini, /etc/php/conf.d/ldap.ini, /etc/php/conf.d/opcache.ini, /etc/php/conf.d/pdo_mysql.ini, /etc/php/conf.d/pdo_pgsql.ini, /etc/php/conf.d/php_helloworld.ini, /etc/php/conf.d/redis.ini, /etc/php/conf.d/xdebug.ini</additional_php_ini>
           <configuration_file>/etc/php/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".:" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.9.0">
+            <debugger_info debugger="xdebug" debugger_version="2.9.6">
               <debug_extensions />
             </debugger_info>
           </debuggers>
@@ -25,8 +26,11 @@
             <extension name="Reflection" />
             <extension name="SPL" />
             <extension name="SimpleXML" />
+            <extension name="Zend OPcache" />
             <extension name="amqp" />
             <extension name="apcu" />
+            <extension name="blackfire" />
+            <extension name="bz2" />
             <extension name="ctype" />
             <extension name="curl" />
             <extension name="date" />
@@ -37,7 +41,9 @@
             <extension name="hash" />
             <extension name="iconv" />
             <extension name="igbinary" />
+            <extension name="imap" />
             <extension name="json" />
+            <extension name="ldap" />
             <extension name="libxml" />
             <extension name="mbstring" />
             <extension name="mysqlnd" />
@@ -57,6 +63,63 @@
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
+      <interpreter name="PHPbrew 7.4.8">
+        <phpinfo binary_type="PHP" php_cgi="$USER_HOME$/.phpbrew/php/php-7.4.8/bin/php-cgi" php_cli="$USER_HOME$/.phpbrew/php/php-7.4.8/bin/php" path_separator=":" version="7.4.8">
+          <additional_php_ini>$USER_HOME$/.phpbrew/php/php-7.4.8/var/db/blackfire.ini, /home/demoniac/.phpbrew/php/php-7.4.8/var/db/opcache.ini, /home/demoniac/.phpbrew/php/php-7.4.8/var/db/xdebug.ini</additional_php_ini>
+          <configuration_file>$USER_HOME$/.phpbrew/php/php-7.4.8/etc/php.ini</configuration_file>
+          <configuration_options>
+            <configuration_option name="include_path" value=".:/home/demoniac/.phpbrew/php/php-7.4.8/lib/php/pear" />
+          </configuration_options>
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="2.9.6">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="Zend OPcache" />
+            <extension name="bcmath" />
+            <extension name="blackfire" />
+            <extension name="bz2" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="curl" />
+            <extension name="date" />
+            <extension name="dom" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="hash" />
+            <extension name="json" />
+            <extension name="libxml" />
+            <extension name="mbstring" />
+            <extension name="openssl" />
+            <extension name="pcntl" />
+            <extension name="pcre" />
+            <extension name="posix" />
+            <extension name="readline" />
+            <extension name="session" />
+            <extension name="shmop" />
+            <extension name="sockets" />
+            <extension name="standard" />
+            <extension name="sysvmsg" />
+            <extension name="sysvsem" />
+            <extension name="sysvshm" />
+            <extension name="tokenizer" />
+            <extension name="xdebug" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlwriter" />
+            <extension name="xsl" />
             <extension name="zip" />
             <extension name="zlib" />
           </loaded_extensions>
