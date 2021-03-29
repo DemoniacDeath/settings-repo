@@ -1,7 +1,7 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="18558251-e76f-47ff-a401-41919e3dc320" name="PHP 7.4" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="18558251-e76f-47ff-a401-41919e3dc320" name="Local PHP" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="b76c5122-c2b2-40e4-ad90-35f5fd3b0a1d" name="PHPbrew 7.4.8" home="$USER_HOME$/.phpbrew/php/php-7.4.8/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="d94c006a-9a5f-4850-b54f-7e71dc298b05" name="PHPbrew 7.3.20" home="$USER_HOME$/.phpbrew/php/php-7.3.20/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="3d6cf823-f47c-440a-b155-12a35c7576a3" name="PHPbrew 7.2.34" home="$USER_HOME$/.phpbrew/php/php-7.2.34/bin/php" debugger_id="php.debugger.XDebug" />
@@ -69,7 +69,7 @@
           </loaded_extensions>
         </phpinfo>
       </interpreter>
-      <interpreter name="PHP 7.4">
+      <interpreter name="Local PHP">
         <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="8.0.3">
           <additional_php_ini>/etc/php/conf.d/apcu.ini, /etc/php/conf.d/bz2.ini, /etc/php/conf.d/gd.ini, /etc/php/conf.d/iconv.ini, /etc/php/conf.d/igbinary.ini, /etc/php/conf.d/imap.ini, /etc/php/conf.d/ldap.ini, /etc/php/conf.d/opcache.ini, /etc/php/conf.d/pdo_mysql.ini, /etc/php/conf.d/pdo_pgsql.ini, /etc/php/conf.d/redis.ini, /etc/php/conf.d/xdebug.ini</additional_php_ini>
           <configuration_file>/etc/php/php.ini</configuration_file>
