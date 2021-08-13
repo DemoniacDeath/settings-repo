@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="redis-cli" type="AUTO_DETECTED" />
       <mapping pattern="rsyncignore" type="AUTO_DETECTED" />
       <mapping pattern="TrackingStub" type="PHP" />
       <mapping pattern="rabbitmq_enabled_plugins" type="PLAIN_TEXT" />

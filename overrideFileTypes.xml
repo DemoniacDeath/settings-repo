@@ -1,6 +1,7 @@
 <application>
   <component name="OverrideFileTypeManager">
     <file url="file://$USER_HOME$/dev/php/JMSAopBundle/Resources/doc/index.rst" />
+    <file url="file://$USER_HOME$/work/erp/bin/redis-cli" value="PHP" />
     <file url="file://$USER_HOME$/work/lab/ci-test/rsyncignore" />
   </component>
 </application>
