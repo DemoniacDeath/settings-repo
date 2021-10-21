@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="az-dev-africa-slots-01.mogo.it" id="fe1d0806-8bc1-4471-8689-580bb24ed4c7" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="michael_skvortsov" />
+    </configs>
+  </component>
+</application>

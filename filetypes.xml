@@ -1,13 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="bin" type="Native" />
+      <mapping pattern="redis-cli" type="AUTO_DETECTED" />
+      <mapping pattern="rsyncignore" type="AUTO_DETECTED" />
       <mapping pattern="TrackingStub" type="PHP" />
       <mapping pattern="rabbitmq_enabled_plugins" type="PLAIN_TEXT" />
-      <mapping pattern="backdoor_user_initiator_password" type="PLAIN_TEXT" />
-      <mapping pattern="backdoor_user_initiator_username" type="PLAIN_TEXT" />
-      <mapping ext="mime" type="PLAIN_TEXT" />
-      <mapping ext="b64" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
