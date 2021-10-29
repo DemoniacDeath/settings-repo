@@ -18,9 +18,13 @@
           <option name="url" value="ssh://git@git.finkoinvest.com:2224/vendor/finko/symfony-bundle-template.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.n.hub5mogo.com:hub5/erp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/work" />
+    <option name="cloneParentDir" value="C:\dev\work" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
