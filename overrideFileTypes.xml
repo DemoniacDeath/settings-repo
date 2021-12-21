@@ -1,5 +1,6 @@
 <application>
   <component name="OverrideFileTypeManager">
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_65.txt" value="PHP" />
     <file url="file://$USER_HOME$/dev/php/JMSAopBundle/Resources/doc/index.rst" />
     <file url="file://$USER_HOME$/work/erp/bin/redis-cli" value="PHP" />
     <file url="file://$USER_HOME$/work/erp/vendor/symfony/polyfill-php72/Php72.php" />
