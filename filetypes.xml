@@ -1,17 +1,16 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern=".asciidoctorconfig" type="AsciiDoc" />
-      <mapping ext="asciidoc" type="AsciiDoc" />
-      <mapping ext="ad" type="AsciiDoc" />
-      <mapping ext="csv" type="CSV" />
-      <removed_mapping ext="tsv" type="CSV/TSV" />
-      <removed_mapping ext="csv" type="CSV/TSV" />
+      <mapping pattern="enabled_plugins" type="AUTO_DETECTED" />
+      <mapping pattern="redis-cli" type="AUTO_DETECTED" />
+      <mapping pattern="phpd" type="AUTO_DETECTED" />
+      <mapping pattern="rsyncignore" type="AUTO_DETECTED" />
+      <mapping pattern="TrackingStub" type="PHP" />
+      <mapping pattern="ERP_agreements" type="PLAIN_TEXT" />
       <mapping pattern="rabbitmq_enabled_plugins" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="proto" type="PROTO" />
-      <mapping ext="tsv" type="TSV" />
-      <removed_mapping ext="proto" type="protobuf" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="ldif" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
