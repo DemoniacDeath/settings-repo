@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '…/module/Documents'" />
-    <option name="defaultScopeName" value="Directory '…/module/Documents'" />
-    <option name="SEARCH_SCOPE" value="Directory '…/module/Documents'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.js</mask>
     <mask>*.ph*</mask>
     <mask>*.twig</mask>
