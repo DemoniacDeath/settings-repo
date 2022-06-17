@@ -226,6 +226,9 @@
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="shift ctrl alt 0" />
   </action>
+  <action id="UsageFiltering.Imports" />
+  <action id="UsageFiltering.ReadAccess" />
+  <action id="UsageFiltering.WriteAccess" />
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
