@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="enabled_plugins" type="AUTO_DETECTED" />
       <mapping pattern="ERP_daily_debt_state_report" type="AUTO_DETECTED" />
+      <mapping pattern="ERP_insurance" type="AUTO_DETECTED" />
       <mapping pattern="redis-cli" type="AUTO_DETECTED" />
       <mapping pattern="phpd" type="AUTO_DETECTED" />
       <mapping pattern="TrackingStub" type="PHP" />
