@@ -168,6 +168,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt up" />
   </action>
   <action id="NextEditorTab" />
+  <action id="NextOccurence" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="shift ctrl alt page_down" />
   </action>
@@ -178,6 +179,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt page_up" />
   </action>
   <action id="PreviousEditorTab" />
+  <action id="PreviousOccurence" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
@@ -224,6 +226,9 @@
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="shift ctrl alt 0" />
   </action>
+  <action id="UsageFiltering.Imports" />
+  <action id="UsageFiltering.ReadAccess" />
+  <action id="UsageFiltering.WriteAccess" />
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
