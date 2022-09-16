@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="az-dev-africa-slots-01.mogo.it" id="fe1d0806-8bc1-4471-8689-580bb24ed4c7" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="michael_skvortsov" />
+      <sshConfig host="10.83.8.8" id="fe1d0806-8bc1-4471-8689-580bb24ed4c7" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="michael_skvortsov" useOpenSSHConfig="true" />
       <sshConfig host="35.158.50.74" id="b9031083-87c3-453f-8c62-de08e9c1eb6a" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
       <sshConfig host="35.158.189.186" id="b1501699-0353-4b97-a03c-9ad89131f824" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
     </configs>
