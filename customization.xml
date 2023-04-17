@@ -99,36 +99,6 @@
       <path value="Main Toolbar Left" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="RefactoringMenu" is_group="true" forse_popup="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Main Toolbar Left" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="MembersPullUp" is_action="true" action_type="1" position="1">
-      <path value="root" />
-      <path value="Main Toolbar Left" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="MemberPushDown" is_action="true" action_type="1" position="2">
-      <path value="root" />
-      <path value="Main Toolbar Left" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="PhpExtractClassAction" is_action="true" action_type="1" position="3">
-      <path value="root" />
-      <path value="Main Toolbar Left" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ExtractInterface" is_action="true" action_type="1" position="4">
-      <path value="root" />
-      <path value="Main Toolbar Left" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="InvertBoolean" is_action="true" action_type="1" position="5">
-      <path value="root" />
-      <path value="Main Toolbar Left" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <action id="PhpExtractClassAction" icon="TypeHierarchy.Class" />
     <action id="RefactoringMenu" icon="EditorTabsEntryPoint" />
     <action id="main.toolbar.git.Branches" icon="jar:file:/home/demoniac/.local/share/JetBrains/Toolbox/apps/PhpStorm/ch-0/231.8109.199/lib/app.jar!/expui/general/settings.svg" />
