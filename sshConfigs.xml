@@ -5,6 +5,7 @@
       <sshConfig host="35.158.50.74" id="b9031083-87c3-453f-8c62-de08e9c1eb6a" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
       <sshConfig host="35.158.189.186" id="b1501699-0353-4b97-a03c-9ad89131f824" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
       <sshConfig host="ug-prd-erp-cron-01.mogo.it" id="0a7e4db2-3c37-481c-864c-c44191d33f75" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="michael_skvortsov" useOpenSSHConfig="true" />
+      <sshConfig host="ke-dev-cron-02.mogo.lan" id="bf029e0b-5f8c-49c6-acfe-fdaa02bc7d57" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="michael_skvortsov" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
