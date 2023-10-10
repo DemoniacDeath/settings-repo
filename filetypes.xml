@@ -6,6 +6,7 @@
       <mapping pattern="ERP_insurance" type="AUTO_DETECTED" />
       <mapping pattern="redis-cli" type="AUTO_DETECTED" />
       <mapping pattern="phpd" type="AUTO_DETECTED" />
+      <mapping pattern="ERP_gps" type="AUTO_DETECTED" />
       <mapping pattern="TrackingStub" type="PHP" />
       <mapping pattern="ERP_agreements" type="PLAIN_TEXT" />
       <mapping pattern="rabbitmq_enabled_plugins" type="PLAIN_TEXT" />
